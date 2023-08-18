@@ -44,7 +44,7 @@ hl.common = {
     CursorColumn = {bg = c.bg1},
     CursorLine = {bg = c.bg1},
     ColorColumn = {bg = c.bg1},
-    CursorLineNr = {fg = c.white},
+    CursorLineNr = {fg = c.fg},
     LineNr = {fg = c.light_grey},
     Conceal = {fg = c.fg, bg = c.bg0, fmt = "bold"},
     DiffAdd = {fg = c.green, bg = c.none, fmt = "reverse,underline"},
