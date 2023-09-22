@@ -59,7 +59,7 @@ hl.common = {
     ErrorMsg = {fg = c.red, fmt = "bold"},
     WarningMsg = {fg = c.yellow, fmt = "bold"},
     MoreMsg = {fg = c.blue, fmt = "bold"},
-    CurSearch = {fg = c.yellowgreen, bg = c.bg1, fmt = "bold,italic,underline"},
+    CurSearch = {fg = c.puredark, bg = c.orange, fmt = "bold,italic,underline"},
     IncSearch = {fg = c.bg1, bg = c.yellow, fmt = "bold,italic,underline"},
     Search = {fg = c.yellowgreen, bg = c.bg1, fmt = "bold,italic,underline"},
     Substitute = {fg = c.bg0, bg = c.green},
