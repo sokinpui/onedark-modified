@@ -32,6 +32,7 @@ return {
     match_red = "#ff0000",
     visual_green = "#3E6452",
     white = " #ffffff",
+    fold = "#93a4c4",
   },
   darker = {
     black = "#0e1013",
